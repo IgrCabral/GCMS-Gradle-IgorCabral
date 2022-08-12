@@ -5,6 +5,7 @@ package GCMS.Gradle.IgorCabral;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
+        return false;  /*devia dar erro ao subir */
+      
     }
 }
